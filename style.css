@@ -1,0 +1,44 @@
+.container1 {
+    display:flex;
+    width:1100px;
+    height:100px;
+    background:white;
+    justify-content:space-around;
+    list-style: none;
+    padding:0px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: lightskyblue;
+  }
+  
+  .item1 {
+    height:50px;
+    width:50px;
+    background:lightskyblue;
+    padding:5px;
+    margin-top: 20px;
+    
+  }
+
+
+  .container2 {
+    display:flex;
+    width:1100px;
+    height:100px;
+    background-color: lightcoral;
+    justify-content:space-around;
+    list-style: none;
+    padding:0px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: lightskyblue;
+  }
+  
+  .item2 {
+    height:50px;
+    width:50px;
+    background:purple;
+    padding:5px;
+    margin-top: 20px;
+    
+  }
